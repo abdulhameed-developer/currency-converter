@@ -323,14 +323,14 @@ body {
     font-size: 0.9rem;
   }
   
-  .swap-button{
-    display: none;
-  }
-
   .converter-card {
     padding: 20px 16px;
   }
   
+  .swap-button{
+    display: none;
+  }
+
   .result-section {
     padding: 20px;
   }
